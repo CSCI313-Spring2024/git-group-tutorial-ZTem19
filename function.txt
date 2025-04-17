@@ -8,6 +8,10 @@ This is a new change from Josh Pfaff
 
 This is a representation of a unfinished function a group member is working on. 
 This is a new change from alexander templin.
+
+This is a representation of a unfinished function a group member is working on. 
+This is a new change from alexander templin.
+
 This is the changes made to this branch while you were working on rb-test
 
 This is the changes made to this branch while you were working on rb-test
