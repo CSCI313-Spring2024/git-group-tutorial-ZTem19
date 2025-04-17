@@ -10,7 +10,7 @@ This is a representation of a unfinished function a group member is working on.
 This is a new change from alexander templin.
 
 This is a representation of a unfinished function a group member is working on. 
-This is a new change from alexander templin.
+This is a new change from Braxton Boe.
 
 This is the changes made to this branch while you were working on rb-test
 
